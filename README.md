@@ -1,2 +1,2 @@
-*  Founder of 80 Entertainment 
-*  I Specialize in C# and Blender
+I don't really program,
+but I do like computer science
